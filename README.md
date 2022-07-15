@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yosup Cheon!
-- 🌱 I’m 3rd year cs student at Simon Fraser University
+- 🌱 I’m 3rd year CS student at Simon Fraser University
 
 <!---
 - 👀 I’m interested in ...
